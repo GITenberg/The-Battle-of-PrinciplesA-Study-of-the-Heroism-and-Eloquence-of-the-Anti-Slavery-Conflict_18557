@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7266'
     url: http://www.gutenberg.org/2009/agents/7266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18557#The-Battle-of-PrinciplesA-Study-of-the-Heroism-and-Eloquence-of-the-Anti-Slavery-Conflict
 gutenberg_issued: '2006-06-11'
 gutenberg_type: Text
 identifiers:
