@@ -1,0 +1,39 @@
+_repo: The-Battle-of-PrinciplesA-Study-of-the-Heroism-and-Eloquence-of-the-Anti-Slavery-Conflict_18557
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hillis, Newell Dwight
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '7266'
+    url: http://www.gutenberg.org/2009/agents/7266
+description: ''
+gutenberg_issued: '2006-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18557'
+  lccn: '12008425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcc 'E456'
+- !lcsh 'Antislavery movements -- United States'
+tableOfContents: 'Rise of American slavery: growth of the traffic -- Webster and Calhoun:
+  the battle line in array -- Garrison and Phillips: anti-slavery agitation -- Charles
+  Sumner: the appeal to educated men -- Horace Greeley: the appeal to the common people
+  -- Harriet Beecher Stowe; John Brown: the conflict precipitated -- Lincoln and Douglas:
+  influence of the great debate -- Reasons for secession: southern leaders -- Henry
+  Ward Beecher: the appeal to England -- Heroes of battle: American soldiers and sailors
+  -- The life of the people at home who supported the soldiers at the front -- Abraham
+  Lincoln: the martyred President.'
+title: 'The Battle of Principles
+
+  A Study of the Heroism and Eloquence of the Anti-Slavery Conflict'
+url: http://www.gutenberg.org/ebooks/18557
